@@ -8,6 +8,10 @@ For backend development there is a variety of languages but JavaScript dominates
 
 It has its own engine that executes code inside script tags.
 
+# index
+
+Note that the index file will be executed by default if you try to execute a folder containing JS files. 
+
 ## Location of script tags
 
 Script tags can really be placed in the body or the head section. 

@@ -11,5 +11,4 @@ if (status === "approved") {
   console.log("denied");
 }
 
-
-console.log(10<5<1);
+console.log(10 < 5 < 1); // 10<5 is false which equivocates to 0 which is less than 1 so true is returned

@@ -16,3 +16,9 @@ if (scoreJohn >= lowerLimit && scoreNick >= lowerLimit) {
 } else {
   console.log("none passed");
 }
+
+/*
+The key thing to note in this exercise is that the else if statement is 
+executed when the first statement fails but the if statements next to each
+other will both execute regardless if the other fails or not. 
+*/
